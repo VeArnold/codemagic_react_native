@@ -11,5 +11,5 @@ workflows:
         scripts:
             - sleep 15
             - name: Install npm dependencies
-              script: yarn install
+              script: npm install
      
