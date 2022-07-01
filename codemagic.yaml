@@ -12,5 +12,4 @@ workflows:
             - sleep 15
             - name: Install npm dependencies
               script: yarn install
-            - cat yarn.lock
-     
+
